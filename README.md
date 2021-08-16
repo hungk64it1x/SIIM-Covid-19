@@ -1,5 +1,5 @@
 # SIIM-FISABIO-RSNA COVID-19 Detection
-### 🥉Bronze medal in competition🥉
+### 🥉Solo bronze medal in competition🥉
 ![project-image](https://user-images.githubusercontent.com/80585483/129514712-1b29cc82-1a1e-47f3-bc7a-9ec3008e39fa.png)
 
 > Identify and localize COVID-19 abnormalities on chest radiographs.
